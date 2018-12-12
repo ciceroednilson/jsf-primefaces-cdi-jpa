@@ -2,7 +2,7 @@
 
 ### Introdução.
 
-Esse código mostra de forma simples como criar ua aplicação web usando JSF, PrimeFaces, CDI e JPA.
+Esse código mostra de forma simples como criar uma aplicação web usando JSF, PrimeFaces, CDI e JPA.
 
 
 ### Link do Tutorial
